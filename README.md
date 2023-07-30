@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **nicolyy/nicolyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={nicolyy}&theme={2077}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={nicolyy}&theme={2077}
