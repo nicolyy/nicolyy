@@ -1,7 +1,7 @@
 # Hi there, My Name's Nicoly 👋
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolyy&" alt="nicolyy" /></span>
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolyy&show_icons=true&locale=en" alt="nicolyy" /></span>
+<span><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolyy&" alt="nicolyy" /></span>
+<span>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=nicolyy&show_icons=true&locale=en" alt="nicolyy" /></span>
 
 # About Me
 
